@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahnuzeocai.0xc0ffee.io/sitemap.xml
